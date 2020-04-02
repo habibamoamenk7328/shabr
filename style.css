@@ -1,0 +1,11 @@
+.main {
+    position: relative;
+}
+
+.heading {
+    color:white;
+    position: absolute;
+    top: 20%;
+    left: 0;
+    width: 100%;
+}
